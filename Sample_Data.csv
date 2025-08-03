@@ -1,0 +1,51 @@
+Book ID,Title,Author,Genre,Year,ISBN,Language,Status
+1001,The Enigma Code 7,Emma Scott,Mystery,1978,4396512306086,English,Issued
+1002,The Crystal Maze 6,James Parker,Fiction,1990,2688094560537,English,Issued
+1003,Quantum Dreams 6,Lucas Turner,Biography,1953,2845137311964,Spanish,Issued
+1004,The Enigma Code 4,Sophia Hayes,Science Fiction,1974,2364300337287,German,Issued
+1005,The Crystal Maze 4,Ava Carter,History,1997,7884456505168,German,Available
+1006,The Enigma Code 10,Lucas Turner,Fantasy,2002,6697873281686,Spanish,Available
+1007,Quantum Dreams 5,Liam Morgan,History,2011,3917048357178,English,Available
+1008,Voices of the Past 5,James Parker,Romance,1986,5248057479014,English,Issued
+1009,Midnight Sun 6,Mia Lewis,Fiction,1959,9325069004518,French,Available
+1010,Whispers in the Wind 1,Ava Carter,Mystery,1967,9679515822492,German,Available
+1011,The Time Keeper 1,Emma Scott,Mystery,1953,2055646916536,Spanish,Issued
+1012,Shadows and Light 4,Sophia Hayes,Philosophy,1980,6686163522955,Hindi,Issued
+1013,Quantum Dreams 3,Ethan Ward,History,1974,1052972384424,Hindi,Available
+1014,Echoes of Silence 8,Noah Brooks,Romance,1959,8809332352946,Spanish,Issued
+1015,Midnight Sun 6,Emma Scott,History,1955,1016651679660,French,Available
+1016,The Enigma Code 4,Ethan Ward,History,1958,9323846326065,Hindi,Issued
+1017,Lost Horizons 7,Sophia Hayes,Biography,1953,7494236559314,Spanish,Issued
+1018,Shadows and Light 4,Emma Scott,Philosophy,2016,1194375760546,French,Issued
+1019,The Crystal Maze 4,Mia Lewis,Romance,2004,3532256256322,Hindi,Available
+1020,Echoes of Silence 9,Ava Carter,Romance,1999,3637332204595,German,Available
+1021,The Enigma Code 6,Noah Brooks,Fiction,2020,8843851163063,French,Available
+1022,The Enigma Code 1,Ethan Ward,Philosophy,1964,9616085737578,French,Available
+1023,Quantum Dreams 3,Isabella King,Romance,1965,5938877693296,German,Issued
+1024,Midnight Sun 2,Noah Brooks,Philosophy,2013,3858538207428,French,Issued
+1025,Voices of the Past 3,Lucas Turner,History,1965,2058311572501,French,Available
+1026,The Time Keeper 6,James Parker,Romance,1988,5010304950540,German,Available
+1027,Shadows and Light 4,James Parker,Biography,1958,5489944480105,Hindi,Available
+1028,The Crystal Maze 3,Isabella King,Fiction,1962,4251021498737,German,Issued
+1029,Shadows and Light 5,Emma Scott,Mystery,1979,2196433098181,Hindi,Available
+1030,Echoes of Silence 1,Ethan Ward,Science Fiction,2003,8242336686085,Spanish,Issued
+1031,Echoes of Silence 7,Emma Scott,Biography,2001,5764822562433,German,Issued
+1032,The Enigma Code 2,Sophia Hayes,Biography,1959,3096482769398,Spanish,Available
+1033,The Crystal Maze 1,James Parker,Fantasy,2005,2433504590376,Hindi,Issued
+1034,Whispers in the Wind 10,Mia Lewis,Fiction,2022,8242814834905,German,Available
+1035,Midnight Sun 10,James Parker,Romance,1951,6863011130698,Hindi,Issued
+1036,Lost Horizons 7,James Parker,Romance,1974,3832638984320,English,Available
+1037,Quantum Dreams 3,Sophia Hayes,Science Fiction,1994,6166022726861,Hindi,Available
+1038,Shadows and Light 6,Sophia Hayes,History,2011,8331027073450,German,Available
+1039,Lost Horizons 4,Ava Carter,Biography,1950,1747182907932,Hindi,Available
+1040,Shadows and Light 3,Ethan Ward,Biography,2010,8581677769909,English,Issued
+1041,Whispers in the Wind 9,Sophia Hayes,Mystery,1968,1278809928867,French,Issued
+1042,Shadows and Light 3,Liam Morgan,Mystery,1998,6593784882994,French,Issued
+1043,Midnight Sun 9,Sophia Hayes,Romance,1960,2131217513274,German,Issued
+1044,Quantum Dreams 3,Noah Brooks,Mystery,1975,8494275365126,Spanish,Issued
+1045,Whispers in the Wind 9,Mia Lewis,Romance,2011,6246863128165,English,Available
+1046,Echoes of Silence 8,Emma Scott,Science Fiction,2021,2031953192714,Spanish,Issued
+1047,Whispers in the Wind 4,Noah Brooks,Biography,1968,3555276342800,French,Issued
+1048,Midnight Sun 7,Isabella King,Mystery,1952,4183631173505,Hindi,Available
+1049,Echoes of Silence 1,Lucas Turner,Philosophy,1961,9804503337673,English,Issued
+1050,The Crystal Maze 4,Noah Brooks,History,1967,1159734481351,French,Issued

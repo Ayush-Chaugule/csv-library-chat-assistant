@@ -39,5 +39,14 @@ Other versions may cause compatibility issues or throw errors.
 ```bash
 pip install -r requirements.txt
 streamlit run Assistant_app.py
+```
+
+---
+
+## Contributors
+
+- [Ayush Chaugule](https://github.com/Ayush-Chaugule) – Creator & Developer  
+- [AAquib Shaikh](https://github.com/aaquibshaikh001) – Creator & developer 
+
 
 

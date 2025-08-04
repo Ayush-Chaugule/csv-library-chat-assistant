@@ -4,7 +4,7 @@ A smart Streamlit-based chatbot that helps users explore library datasets using 
 
 Learn more about PandasAI in the [official documentation](https://docs.pandas-ai.com/).
 
-Generate a free PandaiAI API key at https://app.pandabi.ai
+Generate a free PandaiAI API key at [Pandas API Key](https://app.pandabi.ai)
 
 ---
 
@@ -47,6 +47,7 @@ streamlit run Assistant_app.py
 
 - [Ayush Chaugule](https://github.com/Ayush-Chaugule) – Creator & Developer  
 - [AAquib Shaikh](https://github.com/aaquibshaikh001) – Creator & developer 
+
 
 
 

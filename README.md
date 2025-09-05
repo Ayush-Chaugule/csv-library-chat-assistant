@@ -1,6 +1,6 @@
-# Library AI Assistant
+# CSV Based AI Assistant
 
-A smart Streamlit-based chatbot that helps users explore library datasets using natural language, powered by [PandasAI](https://pandas-ai.com/)
+A smart Streamlit-based chatbot that helps users explore  datasets using natural language, powered by [PandasAI](https://pandas-ai.com/)
 
 Learn more about PandasAI in the [official documentation](https://docs.pandas-ai.com/)
 
@@ -10,7 +10,7 @@ Generate a free PandasAI API key at [Pandas API Key](https://app.pandabi.ai)
 
 ## Features
 
-- Upload your own `.csv` library file
+- Upload your own `.csv`  file
 - Ask natural language questions like:
   - "How many books are available?"
   - "List all books by 'xyz' author"
@@ -47,6 +47,7 @@ streamlit run Assistant_app.py
 
 - [Ayush Chaugule](https://github.com/Ayush-Chaugule) – Creator & Developer  
 - [AAquib Shaikh](https://github.com/aaquibshaikh001) – Creator & developer 
+
 
 
 
